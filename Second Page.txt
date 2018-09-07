@@ -1,0 +1,24 @@
+Okay, let us begin the adventure, shall we? 
+First tell me a little about yourself. 
+
+Your name? (full name): 
+Your Age?:
+
+//Set
+localStorage.setItem("Age", "Smith");
+
+//Get
+var lastName = localStorage.getItem("lastname");
+
+Your School:
+Your marks in 10th standard: (total)
+Mathematics (var #a)
+Physics (var #b)
+Chemistry (var #c)
+Biology (var #d)
+Computer Science (var #e)
+Hindi/Elective Language: (var #f)
+
+Your elected subjects (Hindi/French/Sanskrit/German):
+Out of Sports, Computers and Arts and Music, I'd Like to opt for: 
+

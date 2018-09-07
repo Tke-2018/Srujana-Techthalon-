@@ -1,0 +1,4 @@
+hey there, APAASSS is an application that is dedicated to present you with a thorough questionnaire aided analysis that aims to help you choose your future stream based on the response that is provided to the set of questions.
+Please provide suitable answers to each of the questions. 
+ 
+*Disclaimer - The information provided by you to APAASS is stored for the analytics and responses that generate the final result. Please be assured that the data is used purely for the purpose of research by the application and wouldn't be allocated elsewhere (third party) unless explicitly stated by the author.
